@@ -474,3 +474,7 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #141841;
 }
+
+.navbar-brand {
+    padding: 5px 15px;
+}
